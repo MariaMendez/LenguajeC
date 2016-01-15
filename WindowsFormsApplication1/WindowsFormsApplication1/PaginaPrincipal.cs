@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Main : Form
+    public partial class PaginaPrincipal : Form
     {
-        public Main()
+        public PaginaPrincipal()
         {
             InitializeComponent();
         }

@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApplication1
 {
-    partial class Main
+    partial class PaginaPrincipal
     {
         /// <summary>
         /// Required designer variable.
